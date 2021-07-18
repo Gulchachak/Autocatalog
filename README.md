@@ -14,3 +14,5 @@ This is an example of **Django** Autocatalog web application that uses the **Pos
 ```
 
 Then visit http://localhost:8000/ to observe the app.
+
+Django Administration Username: Admin, Password: Admin
