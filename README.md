@@ -1,6 +1,6 @@
 # Autocatalog on Django
 
-This is an example of **Django** Autocatalog web application that uses the **PostgreSQL** as a database. A running version of this app can be found on **Heroku** [(here)](https://serene-springs-80268.herokuapp.com/).
+This is an example of **Django** Autocatalog web application. A running version of this app can be found on **Heroku** [(here)](https://serene-springs-80268.herokuapp.com/).
 
 ### Running locally
 
